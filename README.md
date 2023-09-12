@@ -11,12 +11,6 @@
 <p align="center">
     <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=950>
 </p>
-<p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R3.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R4.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R5.png" width="800"/>
-</p>
 
 # Wagon Numbering System of Indian Railways
 According to the railway system, The 11-digit wagon number holds great importance in identifying the wagon individually.
@@ -26,7 +20,21 @@ The third pair of digits represent the year of manufacture. e.g. if the third pa
 The next set of four digits represents individual wagon number
 The last digit is a check digit to check and verify the other 10 digits just like a parity checking.
 
-  
+ 
+<p align="center">
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="800"/>
+</p>
+<p align="center">
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R3.png" width="800"/>
+</p>
+<p align="center">
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R4.png" width="800"/>
+</p>
+<p align="center">
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R5.png" width="800"/>
+</p>
+
+ 
 
 Requirements installation
 ```
