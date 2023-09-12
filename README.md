@@ -16,6 +16,8 @@
 # Wagon Numbering System of Railways
 <p align="left">
     According to the railway system, The 11-digit wagon number holds great importance in identifying the wagon individually. 
+</p>
+<p align="left">
     ⚠️ This numbering system is specific to The Indian Railway system. It might not be the same for other countries.
 </p>
 
