@@ -29,7 +29,7 @@ The last digit is a check digit to check and verify the other 10 digits just lik
 
 # Workflow
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="800"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/731474aa9fef9c046b094fda52d7815f30909c04/img/flowchart.png" width="500"/>
 </p>
  
 ## Requirements
