@@ -21,12 +21,6 @@ The third pair of digits represent the year of manufacture. e.g. if the third pa
 The next set of four digits represents individual wagon number
 The last digit is a check digit to check and verify the other 10 digits just like a parity checking.
 
-# Results
- 
-<p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="800"/>
-</p>
-
 # Workflow
 <p align="center">
     <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/731474aa9fef9c046b094fda52d7815f30909c04/img/flowchart.png" width="500"/>
