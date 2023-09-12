@@ -3,7 +3,7 @@
 ⚠️ This repository contains the code for the Train Wagon number Detection and Extraction System using EasyOCR and YOLOv8 algorithm by ultralytics for object classification on custom data. The project provides code for procedural-oriented programming implementations in Python.  
 
 # Table of Contents
-* [Wagon Numbering System of Indian Railways]()
+* [Wagon Numbering System of Indian Railways](https://github.com/tfortamal/Wagon-Number-Detection/tree/main#wagon-numbering-system-of-indian-railways)
 * [Requirements]()
 * [Workflow and Flowchart]()
 * [Results]()
