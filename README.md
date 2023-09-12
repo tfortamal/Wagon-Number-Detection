@@ -9,7 +9,7 @@
 * [Results]()
 
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=800>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=950>
 </p>
 
 # Wagon Numbering System of Indian Railways
