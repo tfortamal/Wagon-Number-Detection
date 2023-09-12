@@ -17,6 +17,7 @@
 <p align="left">
 According to the railway system, The 11-digit wagon number holds great importance in identifying the wagon individually.
 </p>
+
 * The first of pair digits signifies the type of wagon. [C1, C2]
 * The second pair of digits represents the railway owning the wagon. [C3, C4]
 * The third pair of digits represent the year of manufacture. e.g. if the third pair is 11 then it means it was manufactured in 2011. [C5, C6]
