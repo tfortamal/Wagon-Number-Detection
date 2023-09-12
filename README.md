@@ -32,8 +32,8 @@ pip install Pillow==9.5.0
 Click here for [Quickstart](https://docs.ultralytics.com/quickstart/)
 
 For more details check
-ultralytics YOLOv8 Github [repository](https://github.com/ultralytics/ultralytics) and the YOLOv8 python [documentation](https://docs.ultralytics.com/usage/python/#train)
-EasyOCR Github [repository](https://github.com/JaidedAI/EasyOCR)
+* ultralytics YOLOv8 [Github repository](https://github.com/ultralytics/ultralytics) and the YOLOv8 python [documentation](https://docs.ultralytics.com/usage/python/#train)
+* EasyOCR Github [repository](https://github.com/JaidedAI/EasyOCR)
 
 
 ## Training Results
