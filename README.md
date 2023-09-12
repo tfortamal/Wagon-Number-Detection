@@ -66,4 +66,4 @@ Download and run the code for video inference
 * Code to Verify The Detected Wagon Number: [verifyno.py](https://github.com/tfortamal/Wagon-Number-Detection/blob/dfa1ac0e534c355528fe26ed0623c137d33e2135/src/verifyno.py)
 
 
-### Author: _**Tamal Das** August, 2023
+### Author: _**Tamal Das**_ August, 2023
