@@ -1,12 +1,6 @@
 # Train Wagon number Detection and Extraction System
 ## YOLO + EasyOCR
-⚠️ This repository contains the code for the Train Wagon number Detection and Extraction System using EasyOCR and YOLOv8 algorithm by ultralytics for object classification on custom data. The project provides code for procedural-oriented programming implementations in Python.  
-
-# Table of Contents
-* [Wagon Numbering System of Indian Railways](https://github.com/tfortamal/Wagon-Number-Detection/tree/main#wagon-numbering-system-of-indian-railways)
-* [Requirements]()
-* [Workflow and Flowchart]()
-* [Results]()
+⚠️ This repository contains the code for the Train Wagon number Detection and Extraction System using EasyOCR and YOLOv8 algorithm by ultralytics for object classification on custom data. The project provides code for procedural-oriented programming implementations in Python.
 
 <p align="center">
     <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=950>
@@ -20,6 +14,7 @@ The third pair of digits represent the year of manufacture. e.g. if the third pa
 The next set of four digits represents individual wagon number
 The last digit is a check digit to check and verify the other 10 digits just like a parity checking.
 
+## Results
  
 <p align="center">
     <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="600"/>
@@ -35,7 +30,7 @@ The last digit is a check digit to check and verify the other 10 digits just lik
 </p>
 
  
-
+## Requirements
 Requirements installation
 ```
 pip install ultralytics
@@ -52,13 +47,13 @@ For more details check
 
 
 ## Results
-<p float="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R1.png" width="800" />
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R3.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R4.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R5.png" width="800"/>
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R6.png" width="800"/>
+<p float="left">
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R1.png" width="400" />
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="400"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R3.png" width="400"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R4.png" width="400"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R5.png" width="400"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R6.png" width="400"/>
 </p>
 
 
