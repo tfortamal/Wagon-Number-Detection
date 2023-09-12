@@ -1,6 +1,7 @@
 # Train Wagon number Detection and Extraction System
 ## YOLO + EasyOCR
 ⚠️ This repository contains the code for the Train Wagon number Detection and Extraction System using EasyOCR and YOLOv8 algorithm by ultralytics for object classification on custom data. The project provides code for procedural-oriented programming implementations in Python.
+⚠️ Trained Models and Data are not provided  
 
 <p align="center">
     <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=950>
@@ -58,7 +59,7 @@ For more details check
 
 
 
-## Results from running the model video
+## Source Code
 Download and run the code for video inference 
 * Video inference code: [wnd.py](https://github.com/tfortamal/Wagon-Number-Detection/blob/b43f08a2d031bec8ac91185da5f38a864aa40d03/src/wnd.py).
 
