@@ -72,7 +72,7 @@ For more details check
 
 ## Source Code
 Download and run the code for video inference 
-* Video inference code: [wnd.py](https://github.com/tfortamal/Wagon-Number-Detection/blob/b43f08a2d031bec8ac91185da5f38a864aa40d03/src/wnd.py).
+* Video inference code: [detect.py](src/detect.py).
 
 * Code to Verify The Detected Wagon Number: [verifyno.py](https://github.com/tfortamal/Wagon-Number-Detection/blob/dfa1ac0e534c355528fe26ed0623c137d33e2135/src/verifyno.py)
 
