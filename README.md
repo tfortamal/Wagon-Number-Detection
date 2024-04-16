@@ -78,7 +78,7 @@ Download and run the code for video inference
 
 ## How to Install and Run the project
 ```
-git clone
+git clone https://github.com/tfortamal/Wagon-Number-Detection.git
 cd 
 ```
 
