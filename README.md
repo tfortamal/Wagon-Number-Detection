@@ -30,25 +30,6 @@
     <img src="img/flowchart.png" width="500"/>
 </p>
 
-## Requirements
-Requirements installation
-```
-pip install ultralytics
-pip install easyocr
-pip install opencv-python
-pip install Pillow==9.5.0
-```
-or
-```
-pip install requirements.txt 
-```
-
-For more details check
-* ultralytics YOLOv8 [Github repository](https://github.com/ultralytics/ultralytics) and the YOLOv8 python [documentation](https://docs.ultralytics.com/usage/python/#train)
-* EasyOCR Github [repository](https://github.com/JaidedAI/EasyOCR)
-
-
-
 ## Results
 <p align="center">
     <img src="img/R1.png" width="600"/>
@@ -68,6 +49,25 @@ For more details check
 <p align="center">
     <img src="img/R6.png" width="600"/>
 </p>
+
+
+## Requirements
+Requirements installation
+```
+pip install ultralytics
+pip install easyocr
+pip install opencv-python
+pip install Pillow==9.5.0
+```
+or
+```
+pip install requirements.txt 
+```
+
+For more details check
+* ultralytics YOLOv8 [Github repository](https://github.com/ultralytics/ultralytics) and the YOLOv8 python [documentation](https://docs.ultralytics.com/usage/python/#train)
+* EasyOCR Github [repository](https://github.com/JaidedAI/EasyOCR)
+
 
 
 ## Source Code
