@@ -1,5 +1,5 @@
-# Train Wagon number Detection and Extraction System
-## YOLO + EasyOCR
+# Train Wagon number Detection and Extraction System [YOLOv8 + EasyOCR]
+## 
 
 
 <p align="left">
