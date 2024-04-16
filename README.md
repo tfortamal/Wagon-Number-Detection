@@ -79,7 +79,8 @@ Download and run the code for video inference
 ## How to Install and Run the project
 ```
 git clone https://github.com/tfortamal/Wagon-Number-Detection.git
-cd 
+cd Wagon-Number-Detection/src
+python3 detect.py
 ```
 
 ## Credits
