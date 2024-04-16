@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/d134a2349672e044cee910e3042fef34af6ea63e/img/WagonNumber.png" width=950>
+    <img src="img/WagonNumber.png" width=950>
 </p>
 
 # Wagon Numbering System of Railways
@@ -27,7 +27,7 @@
 
 # Workflow
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/46e514c2fc41b5857867a496cfb6a1b7c73fcf11/img/flowchart.png" width="500"/>
+    <img src="img/flowchart.png" width="500"/>
 </p>
 
 ## Requirements
@@ -51,22 +51,22 @@ For more details check
 
 ## Results
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R1.png" width="600"/>
+    <img src="img/R1.png" width="600"/>
 </p>
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R2.png" width="600"/>
+    <img src="img/R2.png" width="600"/>
 </p>
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R3.png" width="600"/>
+    <img src="img/R3.png" width="600"/>
 </p>
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R4.png" width="600"/>
+    <img src="img/R4.png" width="600"/>
 </p>
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R5.png" width="600"/>
+    <img src="img/R5.png" width="600"/>
 </p>
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/0bc24c6724de4cda3c068ad744604e5523a848c5/img/R6.png" width="600"/>
+    <img src="img/R6.png" width="600"/>
 </p>
 
 
@@ -74,7 +74,7 @@ For more details check
 Download and run the code for video inference 
 * Video inference code: [detect.py](src/detect.py).
 
-* Code to Verify The Detected Wagon Number: [verifyno.py](https://github.com/tfortamal/Wagon-Number-Detection/blob/dfa1ac0e534c355528fe26ed0623c137d33e2135/src/verifyno.py)
+* Code to Verify The Detected Wagon Number: [verifyno.py](src/verifyno.py)
 
 ## How to Install and Run the project
 ```
