@@ -27,7 +27,7 @@
 
 # Workflow
 <p align="center">
-    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/731474aa9fef9c046b094fda52d7815f30909c04/img/flowchart.png" width="500"/>
+    <img src="https://github.com/tfortamal/Wagon-Number-Detection/blob/46e514c2fc41b5857867a496cfb6a1b7c73fcf11/img/flowchart.png" width="500"/>
 </p>
 
 ## Requirements
